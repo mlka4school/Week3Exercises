@@ -28,9 +28,11 @@ namespace ShoppingKart
 						RetryPrice: Console.WriteLine("Price of new item?");
 						var price = 0.0D;
 						if (!double.TryParse(Console.ReadLine(),out price)) goto RetryPrice;
+						if (price <= 0) goto RetryPrice;
 						RetryAmount: Console.WriteLine("Amount of new item?");
 						var amt = 0;
 						if (!int.TryParse(Console.ReadLine(),out amt)) goto RetryAmount;
+						if (amt <= 0) goto RetryAmount;
 						// both of those passed? great! add them to the arrays
 						itemPrice.Add(price);
 						itemAmount.Add(amt);
@@ -42,6 +44,26 @@ namespace ShoppingKart
 						Console.Clear();
 						if (itemAmount.Count == 0){
 							Console.WriteLine("You have no items.");
+						}else{
+							var formatString = "";
+							var totalAmt = 0.0D;
+							for (var i = 0; i < itemPrice.Count; ++i){
+								// am i really doing the nice line thing again? yes.....
+								formatString = itemAmount[i].ToString()+"x $"+itemPrice[i].ToString()+" worth item";
+								while (formatString.Length < 48){
+									formatString += " ";
+								}
+								formatString += "$"+(itemPrice[i]*itemAmount[i]).ToString();
+								totalAmt += itemPrice[i]*itemAmount[i];
+								Console.WriteLine(formatString);
+							}
+							// total
+							formatString = "Total";
+							while (formatString.Length < 48){
+								formatString += " ";
+							}
+							formatString += "$"+(totalAmt).ToString();
+							Console.WriteLine(formatString);
 						}
 						Console.WriteLine("");
 						Console.WriteLine("Press any key to continue...");
