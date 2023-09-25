@@ -1,0 +1,8 @@
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\ShoppingKart\bin\Debug\ShoppingKart.exe.config
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\ShoppingKart\bin\Debug\ShoppingKart.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\ShoppingKart\bin\Debug\ShoppingKart.pdb
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\ShoppingKart\obj\Debug\ShoppingKart.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\ShoppingKart\obj\Debug\ShoppingKart.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\ShoppingKart\obj\Debug\ShoppingKart.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\ShoppingKart\obj\Debug\ShoppingKart.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\ShoppingKart\obj\Debug\ShoppingKart.pdb

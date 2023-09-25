@@ -1,0 +1,8 @@
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\GradeCalc\bin\Debug\GradeCalc.exe.config
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\GradeCalc\bin\Debug\GradeCalc.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\GradeCalc\bin\Debug\GradeCalc.pdb
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\GradeCalc\obj\Debug\GradeCalc.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\GradeCalc\obj\Debug\GradeCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\GradeCalc\obj\Debug\GradeCalc.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\GradeCalc\obj\Debug\GradeCalc.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\GradeCalc\obj\Debug\GradeCalc.pdb

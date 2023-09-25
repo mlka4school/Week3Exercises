@@ -1,0 +1,8 @@
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\Fibonacci\obj\Debug\Fibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week3Exercises\Fibonacci\obj\Debug\Fibonacci.pdb
